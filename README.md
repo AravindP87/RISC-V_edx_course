@@ -42,7 +42,6 @@ Final Solution:
 
 ![image](https://github.com/AravindP87/RISC-V_edx_course/assets/43791223/5a46abf7-dce2-4dae-8c4c-687b10dc5465)
 
-
 ![image](https://github.com/AravindP87/RISC-V_edx_course/assets/43791223/e6fb330d-258c-4080-a6aa-f241cfbce303)
 
 
